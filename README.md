@@ -58,4 +58,9 @@ This project is intentionally **model‑light**: the emphasis is on interpretabi
 - Summary tables/statistics highlighting stable vs unstable patterns
 - Suggested **coaching cues**, e.g., “Maintain knee over toe within X–Y° at contact,” “Reduce trunk lean beyond Z°”
 
+---
+
+## Exit examples
+<img width="640" height="480" alt="annotated_image_bad" src="https://github.com/user-attachments/assets/d93bafd1-2c11-4bee-b755-c3c3bacdbf4d" />
+<img width="640" height="480" alt="annotated_image_good" src="https://github.com/user-attachments/assets/1a15695c-9969-4a5d-bef2-5a39694f8294" />
 
